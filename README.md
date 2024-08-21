@@ -52,6 +52,13 @@ The dashboard was designed to offer an intuitive and user-friendly experience, a
 * Interactive Charts: The dashboard includes a variety of charts and graphs, such as bar charts, line charts, and pie charts, to visualize key metrics like sales, profit, and quantity sold.
 * KPIs: Key Performance Indicators (KPIs) are prominently displayed to provide quick insights into overall performance, such as total sales, total profit, and order counts.
 
+## Key Metrics
+* Total Orders: 5,009
+* Total Sales: $2.30M
+* Total Profit: $286.40K
+* Total Quantity Sold: 38,000 units
+* Total Cost: $2.01M
+
 ## Conclusion
 
 The Superstore Sales Dashboard offers a practical solution for analyzing complex sales data. Its interactive visualizations and detailed breakdowns empower users to make data-driven decisions that can significantly impact business performance and growth.
